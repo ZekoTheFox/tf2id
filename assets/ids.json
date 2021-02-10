@@ -1,0 +1,1087 @@
+[
+  [
+    "Scout",
+    [
+      {
+        "id": 13,
+        "name": "Scattergun",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 45,
+        "name": "Force-A-Nature",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 220,
+        "name": "The Shortstop",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 448,
+        "name": "The Soda Popper",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 772,
+        "name": "Baby Face's Blaster",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 1103,
+        "name": "The Back Scatter",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 23,
+        "name": "Scout's Pistol",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 46,
+        "name": "Bonk! Atomic Punch",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 163,
+        "name": "Crit-a-Cola",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 222,
+        "name": "Mad Milk",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 294,
+        "name": "Lugermorph",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 449,
+        "name": "The Winger",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 773,
+        "name": "Pretty Boy's Pocket Pistol",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 812,
+        "name": "The Flying Guillotine",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 0,
+        "name": "Bat",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 44,
+        "name": "The Sandman",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 221,
+        "name": "The Holy Mackerel",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 264,
+        "name": "Frying Pan",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 317,
+        "name": "The Candy Cane",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 325,
+        "name": "The Boston Basher",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 349,
+        "name": "Sun-on-a-stick",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 355,
+        "name": "The Fan O'War",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 450,
+        "name": "The Atomizer",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 352,
+        "name": "Three-Rune Blade",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 572,
+        "name": "Unarmed Combat",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 648,
+        "name": "The Wrap Assassin",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 30667,
+        "name": "Batsaber",
+        "slot_type": "Melee"
+      }
+    ]
+  ],
+  [
+    "Soldier",
+    [
+      {
+        "id": 18,
+        "name": "Rocket Launcher",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 127,
+        "name": "The Direct Hit",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 228,
+        "name": "The Black Box",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 237,
+        "name": "Rocket Jumper",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 414,
+        "name": "The Liberty Launcher",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 441,
+        "name": "The Cow Mangler 5000",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 513,
+        "name": "The Original",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 730,
+        "name": "Festive Rocket Launcher",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 1104,
+        "name": "The Air Strike",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 10,
+        "name": "Soldier's Shotgun",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 129,
+        "name": "The Buff Banner",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 133,
+        "name": "Gunboats",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 226,
+        "name": "The Battalion's Backup",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 354,
+        "name": "The Concheror",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 415,
+        "name": "The Reserve Shooter",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 442,
+        "name": "The Righteous Bison",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 444,
+        "name": "The Mantreads",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 1101,
+        "name": "The B.A.S.E. Jumper",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 1153,
+        "name": "Panic Attack",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 6,
+        "name": "Shovel",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 128,
+        "name": "The Equalizer",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 154,
+        "name": "The Pain Train",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 264,
+        "name": "Frying Pan",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 357,
+        "name": "The Half-Zatoichi",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 416,
+        "name": "The Market Gardener",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 447,
+        "name": "The Disciplinary Action",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 775,
+        "name": "The Escape Plan",
+        "slot_type": "Melee"
+      }
+    ]
+  ],
+  [
+    "Pyro",
+    [
+      {
+        "id": 21,
+        "name": "Flame Thrower",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 40,
+        "name": "The Backburner",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 215,
+        "name": "The Degreaser",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 594,
+        "name": "The Plogistinator",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 741,
+        "name": "The Rainblower",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 1178,
+        "name": "Dragon's Fury",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 30474,
+        "name": "Nostromo Napalmer",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 12,
+        "name": "Pyro's Shotgun",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 39,
+        "name": "The Flare Gun",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 351,
+        "name": "The Detonator",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 415,
+        "name": "The Reserve Shooter",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 595,
+        "name": "The Manmelter",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 740,
+        "name": "The Scorch Shot",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 1153,
+        "name": "Panic Attack",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 1179,
+        "name": "Thermal Thruster",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 1180,
+        "name": "Gas Passer",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 2,
+        "name": "Fire Axe",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 38,
+        "name": "The Axtinguisher",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 153,
+        "name": "Homewrecker",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 214,
+        "name": "The Powerjack",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 264,
+        "name": "Frying Pan",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 326,
+        "name": "The Back Scratcher",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 348,
+        "name": "Sharpened Volcano Fragment",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 457,
+        "name": "The Postal Pummeler",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 466,
+        "name": "The Maul",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 593,
+        "name": "The Third Degree",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 739,
+        "name": "The Lollichop",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 813,
+        "name": "Neon Annihilator",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 1181,
+        "name": "Hot Hand",
+        "slot_type": "Melee"
+      }
+    ]
+  ],
+  [
+    "Demoman",
+    [
+      {
+        "id": 19,
+        "name": "Grenade Launcher",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 308,
+        "name": "The Loch-n-Load",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 405,
+        "name": "Ali Baba's Wee Booties",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 608,
+        "name": "The Bootlegger",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 996,
+        "name": "The Loose Cannon",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 1101,
+        "name": "The B.A.S.E. Jumper",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 1151,
+        "name": "The Iron Bomber",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 20,
+        "name": "Stickybomb Launcher",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 130,
+        "name": "The Scottish Resistance",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 131,
+        "name": "The Chargein' Targe",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 265,
+        "name": "Sticky Jumper",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 406,
+        "name": "The Splendid Screen",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 1099,
+        "name": "The Tide Turned",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 1150,
+        "name": "The Quickiebomb Launcher",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 1,
+        "name": "Bottle",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 132,
+        "name": "The Eyelander",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 154,
+        "name": "The Pain Train",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 172,
+        "name": "The Scotsman's Skullcutter",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 264,
+        "name": "Frying Pan",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 266,
+        "name": "Horseless Headless Horsemann's Headtaker",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 307,
+        "name": "Ullapool Caber",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 327,
+        "name": "The Claid Heamh Mor",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 357,
+        "name": "The Half-Zatoichi",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 404,
+        "name": "The Persian Persuader",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 482,
+        "name": "The Scottish Handshake",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 609,
+        "name": "The Scottish Handshake",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 0,
+        "name": "",
+        "slot_type": "Melee"
+      }
+    ]
+  ],
+  [
+    "Heavy",
+    [
+      {
+        "id": 15,
+        "name": "Minigun",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 41,
+        "name": "Natascha",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 298,
+        "name": "Iron Curtain",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 312,
+        "name": "The Brass Beast",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 424,
+        "name": "Tomislav",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 811,
+        "name": "The Huo-Long Heater",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 11,
+        "name": "Heavy's Shotgun",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 42,
+        "name": "Sandvich",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 159,
+        "name": "The Dalokohs Bar",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 311,
+        "name": "The Buffalo Steak Sandvich",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 425,
+        "name": "The Family Business",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 433,
+        "name": "Fishcake",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 1153,
+        "name": "Panic Attack",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 1190,
+        "name": "Second Banana",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 5,
+        "name": "Fists",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 43,
+        "name": "The Killing Gloves of Boxing",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 239,
+        "name": "Gloves of Running Urgently",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 264,
+        "name": "Frying Pan",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 310,
+        "name": "Warrior's Spirit",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 331,
+        "name": "Fists of Steel",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 426,
+        "name": "The Eviction Notice",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 587,
+        "name": "Apoco-Fists",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 1100,
+        "name": "The Bread Bite",
+        "slot_type": "Melee"
+      }
+    ]
+  ],
+  [
+    "Engineer",
+    [
+      {
+        "id": 9,
+        "name": "Engineer's Shotgun",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 141,
+        "name": "The Frontier Justice",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 527,
+        "name": "The Widowmaker",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 588,
+        "name": "The Pomson 6000",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 977,
+        "name": "The Rescue Ranger",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 1153,
+        "name": "Panic Attack",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 22,
+        "name": "Engineer's Pistol",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 140,
+        "name": "The Wrangler",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 294,
+        "name": "Lugermorph",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 528,
+        "name": "The Short Circuit",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 7,
+        "name": "Wrench",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 142,
+        "name": "The Gunslinger",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 155,
+        "name": "The Southern Hospitality",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 169,
+        "name": "Golden Wrench",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 329,
+        "name": "The Jag",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 589,
+        "name": "The Eureka Effect",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 25,
+        "name": "Construction PDA",
+        "slot_type": "PDA"
+      }
+    ]
+  ],
+  [
+    "Medic",
+    [
+      {
+        "id": 17,
+        "name": "Syringe Gun",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 36,
+        "name": "The Blutsauger",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 305,
+        "name": "Crusader's Crossbow",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 412,
+        "name": "The Overdose",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 29,
+        "name": "Medi Gun",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 35,
+        "name": "The Kritzkrieg",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 411,
+        "name": "The Quick-Fix",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 998,
+        "name": "The Vaccinator",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 8,
+        "name": "Bonesaw",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 37,
+        "name": "The Ubersaw",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 173,
+        "name": "The Vita-Saw",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 264,
+        "name": "Frying Pan",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 304,
+        "name": "Amputator",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 413,
+        "name": "The Solemn Vow",
+        "slot_type": "Melee"
+      }
+    ]
+  ],
+  [
+    "Sniper",
+    [
+      {
+        "id": 14,
+        "name": "Sniper Rifle",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 56,
+        "name": "The Huntsman",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 230,
+        "name": "The Sydney Sleeper",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 402,
+        "name": "The Bazaar Bargain",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 526,
+        "name": "The Machina",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 752,
+        "name": "The Hitman's Heatmaker",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 851,
+        "name": "The AWPer Hand",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 0,
+        "name": "The Fortified Compound",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 1098,
+        "name": "The Classic",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 16,
+        "name": "SMG",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 57,
+        "name": "The Razorback",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 58,
+        "name": "Jarate",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 231,
+        "name": "Darwin's Danger Shield",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 642,
+        "name": "Cozy Camper",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 751,
+        "name": "The Cleaner's Carbine",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 1105,
+        "name": "The Self-Aware Beauty Mark",
+        "slot_type": "Primary"
+      },
+      {
+        "id": 3,
+        "name": "Kukri",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 171,
+        "name": "The Tribalman's Shiv",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 232,
+        "name": "The Bushwacka",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 264,
+        "name": "Frying Pan",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 401,
+        "name": "The Shahanshah",
+        "slot_type": "Melee"
+      }
+    ]
+  ],
+  [
+    "Spy",
+    [
+      {
+        "id": 24,
+        "name": "Revolver",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 61,
+        "name": "The Ambassador",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 161,
+        "name": "Big Kill",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 224,
+        "name": "L'Etranger",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 460,
+        "name": "The Enforcer",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 525,
+        "name": "The Diamondback",
+        "slot_type": "Secondary"
+      },
+      {
+        "id": 735,
+        "name": "Sapper",
+        "slot_type": "Building"
+      },
+      {
+        "id": 810,
+        "name": "The Red-Tape Recorder",
+        "slot_type": "Building"
+      },
+      {
+        "id": 1102,
+        "name": "The Snack Attack",
+        "slot_type": "Building"
+      },
+      {
+        "id": 4,
+        "name": "Knife",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 225,
+        "name": "Your Eternal Reward",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 356,
+        "name": "Conniver's Kunai",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 461,
+        "name": "The Big Earner",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 574,
+        "name": "The Wanga Prick",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 638,
+        "name": "The Sharp Dresser",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 649,
+        "name": "The Sharp Dresser",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 727,
+        "name": "The Black Rose",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 27,
+        "name": "Disguise Kit PDA",
+        "slot_type": "PDA"
+      },
+      {
+        "id": 30,
+        "name": "Invis Watch",
+        "slot_type": "PDA2"
+      },
+      {
+        "id": 59,
+        "name": "The Dead Ringer",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 60,
+        "name": "The Cloak and Dagger",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 298,
+        "name": "Enthusiast's Timepiece",
+        "slot_type": "Melee"
+      },
+      {
+        "id": 947,
+        "name": "The Quackenbirdt",
+        "slot_type": "Melee"
+      }
+    ]
+  ]
+]

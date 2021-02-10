@@ -6,7 +6,7 @@ This was originally created to help a specific community search up item's indexe
 Thus this small project / website was born to make searching around for item ids easier.
 
 ### Where can I find the website?
-You can find the live website here: [tf2id.zeko.club](tf2id.zeko.club)
+You can find the live website here: [tf2id.zeko.club](https://tf2id.zeko.club/)
 
 ## Contributing
 You can help contribute by making a pull request, making an issue [f]or editing the `ids.json` to include items you want, or just simply starting this repo.

@@ -22,9 +22,22 @@
 </div>
 <div class="animate__animated animate__fadeInUp loadout-wrapper">
     <div class="loadout-box">
-        <button class="button" onclick="navigator.clipboard.writeText('!loadout ' + document.getElementById('loadoutOutput').innerText);" type="button">Copy</button>
-        <button class="button" onclick="clearItems();" type="button" style="background-color: #ff4444">CE</button>
+        <button class="button" onclick="navigator.clipboard.writeText(`!loadout ${document.getElementById('selectClass').value} ` + document.getElementById('loadoutOutput').innerText);" type="button">Copy</button>
+        <button class="button" onclick="clearItems();" type="button" style="background-color: #ff4444">C</button>
         !loadout
+        <span>
+            <label for="selectClass"></label> <!-- Needed for the Combobox -->
+            <select id="selectClass">
+                <option value="scout">Scout</option>
+                <option value="soldier">Soldier</option>
+                <option value="pyro">Pyro</option>
+                <option value="demo">Demo</option>
+                <option value="heavy">Engineer</option>
+                <option value="medic">Medic</option>
+                <option value="sniper">Sniper</option>
+                <option value="spy">Spy</option>
+            </select>
+        </span>
         <span id="loadoutOutput" class="loadout-text"></span>
     </div>
 </div>

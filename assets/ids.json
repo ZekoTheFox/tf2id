@@ -253,11 +253,6 @@
         "slot_type": "Melee"
       },
       {
-        "id": 264,
-        "name": "Frying Pan",
-        "slot_type": "Melee"
-      },
-      {
         "id": 357,
         "name": "The Half-Zatoichi",
         "slot_type": "Melee"
@@ -348,11 +343,6 @@
         "slot_type": "Secondary"
       },
       {
-        "id": 1153,
-        "name": "Panic Attack",
-        "slot_type": "Secondary"
-      },
-      {
         "id": 1179,
         "name": "Thermal Thruster",
         "slot_type": "Secondary"
@@ -380,11 +370,6 @@
       {
         "id": 214,
         "name": "The Powerjack",
-        "slot_type": "Melee"
-      },
-      {
-        "id": 264,
-        "name": "Frying Pan",
         "slot_type": "Melee"
       },
       {
@@ -523,11 +508,6 @@
         "slot_type": "Melee"
       },
       {
-        "id": 264,
-        "name": "Frying Pan",
-        "slot_type": "Melee"
-      },
-      {
         "id": 266,
         "name": "Horseless Headless Horsemann's Headtaker",
         "slot_type": "Melee"
@@ -633,11 +613,6 @@
         "slot_type": "Secondary"
       },
       {
-        "id": 1153,
-        "name": "Panic Attack",
-        "slot_type": "Secondary"
-      },
-      {
         "id": 1190,
         "name": "Second Banana",
         "slot_type": "Secondary"
@@ -655,11 +630,6 @@
       {
         "id": 239,
         "name": "Gloves of Running Urgently",
-        "slot_type": "Melee"
-      },
-      {
-        "id": 264,
-        "name": "Frying Pan",
         "slot_type": "Melee"
       },
       {
@@ -718,11 +688,6 @@
         "slot_type": "Primary"
       },
       {
-        "id": 1153,
-        "name": "Panic Attack",
-        "slot_type": "Primary"
-      },
-      {
         "id": 22,
         "name": "Engineer's Pistol",
         "slot_type": "Secondary"
@@ -730,11 +695,6 @@
       {
         "id": 140,
         "name": "The Wrangler",
-        "slot_type": "Secondary"
-      },
-      {
-        "id": 294,
-        "name": "Lugermorph",
         "slot_type": "Secondary"
       },
       {
@@ -838,11 +798,6 @@
         "slot_type": "Melee"
       },
       {
-        "id": 264,
-        "name": "Frying Pan",
-        "slot_type": "Melee"
-      },
-      {
         "id": 304,
         "name": "Amputator",
         "slot_type": "Melee"
@@ -893,7 +848,7 @@
         "slot_type": "Primary"
       },
       {
-        "id": 0,
+        "id": 1092,
         "name": "The Fortified Compound",
         "slot_type": "Primary"
       },
@@ -950,11 +905,6 @@
       {
         "id": 232,
         "name": "The Bushwacka",
-        "slot_type": "Melee"
-      },
-      {
-        "id": 264,
-        "name": "Frying Pan",
         "slot_type": "Melee"
       },
       {

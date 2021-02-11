@@ -93,4 +93,4 @@ function processIdsToHTML(input) {
 // Setup dummy items list for the first load
 setTimeout(() => {
     searchIdsHeadless();
-}, 1500);
+}, 2000);
